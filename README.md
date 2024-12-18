@@ -3,7 +3,7 @@ Energia Company Profile is web application for company portfolio for Energia Tra
 - About
 - Services (Layanan)
 - Sertificates (Sertifikat)
-- Company Logos of working with (Kompani logo kerja sama)
+- Company Logos of working with (Logo perusahan kerja sama)
 - Gallery Photos / Portfolio
 - News
 
