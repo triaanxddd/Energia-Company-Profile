@@ -10,6 +10,10 @@ Energia Company Profile is web application for company portfolio for Energia Tra
 Also as an admin, you also can receive mail from visitor
 - Contact
 
+## Requirement
+**PHP**     : 8.0^
+**Laravel** : 9.52.16
+
 ## Installation
 - Clone with github
   ```
