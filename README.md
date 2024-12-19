@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/0f308da6-357b-4c60-86a0-bb3e88bfb632)## About Energia Company Profile
 ![1](https://github.com/user-attachments/assets/6a32bf8a-692d-40eb-b5cf-208bbbc00231)
 
-Energia Company Profile is web application for company portfolio for Energia Transmedia company. this website is made with Laravel framework, showing content for company and also these contents are dynamicaly can be created through admin panel, such as:
+Energia Company Profile is web application Energia Transmedia company profile. this website is made with Laravel framework, showing content for company and also these contents are dynamicaly can be created through admin panel, such as:
 - About
 - Services (Layanan)
 - Sertificates Company (Sertifikat)
